@@ -1,0 +1,19 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto de nodejs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Salacodigo/bootstrap-coursera.git"
+  },
+  "author": "Santiago S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salacodigo/bootstrap-coursera/issues"
+  },
+  "homepage": "https://github.com/Salacodigo/bootstrap-coursera#readme"
+}
